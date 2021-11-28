@@ -44,6 +44,7 @@
 		8C3D83A52753CD9300EBF7D8 /* StoryBoards */ = {
 			isa = PBXGroup;
 			children = (
+				8CD7B27F2752D4BE00132C0A /* Delegates */,
 				8CD8CC582752753400CBEF45 /* Main.storyboard */,
 				8CD8CC5D2752753800CBEF45 /* LaunchScreen.storyboard */,
 			);
@@ -78,9 +79,7 @@
 		8CD8CC512752753400CBEF45 /* H.W 2.10. NetworkRquests */ = {
 			isa = PBXGroup;
 			children = (
-				8CD7B27F2752D4BE00132C0A /* Delegates */,
 				8CD8CC6C27527C8500CBEF45 /* ViewControllers */,
-				8CD8CC6D27527CA200CBEF45 /* Models */,
 				8C3D83A52753CD9300EBF7D8 /* StoryBoards */,
 				8CD8CC5B2752753800CBEF45 /* Assets.xcassets */,
 				8CD8CC602752753800CBEF45 /* Info.plist */,
@@ -91,6 +90,7 @@
 		8CD8CC6C27527C8500CBEF45 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				8CD8CC6D27527CA200CBEF45 /* Models */,
 				8C3D83A32753BDC500EBF7D8 /* CatsViewController.swift */,
 				8CD8CC562752753400CBEF45 /* ViewController.swift */,
 			);
