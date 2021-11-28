@@ -6,10 +6,8 @@
 //
 
 import Foundation
-import UIKit
 struct Cat: Decodable {
     let url: String?
-    
 }
     
 

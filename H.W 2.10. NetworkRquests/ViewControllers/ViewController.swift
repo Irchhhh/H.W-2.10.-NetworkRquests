@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     //MARK: - Public Properties
-    let urlString =  "https:thatcopy.github.io/catAPI/imgs/jpg/84f477e.jpg"
+    private let urlString =  "https:thatcopy.github.io/catAPI/imgs/jpg/84f477e.jpg"
 }
 
 //MARK: - Extensions
